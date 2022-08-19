@@ -12,6 +12,10 @@ public class CompanyInfo {
 		// TODO Auto-generated method stub
 System.out.println("Address is Greens Technologies, Thoraipakkam, OMr, chn-97");
 	}
+	private void companyDetails() {
+		// TODO Auto-generated method stub
+System.out.println("Coaching center");
+	}
 	public static void main(String[] args) {
 		CompanyInfo CI=new CompanyInfo();
 		CI.companyName();
